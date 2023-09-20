@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Samuel Bernier</h1>
-    <p align="center">I am a computer science student at a French university named UQO (Universit&eacute du Qu&eacutebec en Outaouais).
- I am interested in Artificial intelligence and I intend to pursue a Master degree in this field.
+    <p align="center">I am a graduate computer science student at a French university named UQO (Universit&eacute du Qu&eacutebec en Outaouais).
+ I am interested in Artificial intelligence and I am pursuing a Master degree in this field.
     </p>
    <h2>&#x1F6E0; My skills</h2>
    <h3>&#x270D; Programming language</h3>
