@@ -11,4 +11,4 @@
    <h3>&#x1F528; Development tools</h3>
    <p>Eclipse IDE | Processing | JDevelopper | Pycharm | IntelliJ IDEA | Sublime Text | Atom | Webstorm | PHPStorm</p>
    <h3>&#x1F4E7; How to reach me</h3>
-   <p>Don't hesitate to reach me by email at <a href="mailto:samuel.bernier@hotmail.com">samuel.bernier@hotmail.com</a></p>
+   <p>Don't hesitate to reach me by email at <a href="mailto:samuel.bernier@hotmail.com">samuel.bernier@hotmail.com</a>, or on <a href="https://www.linkedin.com/in/samuel-bernier-a856b521b/">LinkedIn</a>.</p>
